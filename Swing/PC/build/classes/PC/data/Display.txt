@@ -1,0 +1,5 @@
+﻿名稱	金額	圖片
+　	0	img/Display/0.jpg
+技嘉 GV-N210D3-1GI 顯示卡 - NT.1190	1190	img/Display/1.jpg
+華碩 GT640-1GD5-L 顯示卡 - NT.2590	2590	img/Display/2.jpg
+麗臺 GT660 2GB DDR5 192bit PCI-E 3D 圖形加速卡 - NT.6890	6890	img/Display/3.jpg

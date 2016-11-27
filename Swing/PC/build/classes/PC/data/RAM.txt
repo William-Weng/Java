@@ -1,0 +1,5 @@
+﻿名稱	金額	圖片
+　	0	img/RAM/0.jpg
+威剛 DDR3 4G - NT.1100	1100	img/RAM/1.jpg
+金士頓 DDR3 4GB - NT.1150	1150	img/RAM/2.jpg
+創見 DDR3 4GB - NT.1200	1200	img/RAM/3.jpg

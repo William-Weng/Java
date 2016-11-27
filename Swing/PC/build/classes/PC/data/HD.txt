@@ -1,0 +1,5 @@
+﻿名稱	金額	圖片
+　	0	img/HD/0.jpg
+WD 1TB 3.5吋 SATA3 - NT.1999	1999	img/HD/1.jpg
+Seagate 2TB 3.5吋 SATA3 - NT.2766	2766	img/HD/2.jpg
+TOSHIBA 3TB 3.5吋 SATA3 - NT.3688	3688	img/HD/3.jpg

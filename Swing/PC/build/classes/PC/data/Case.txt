@@ -1,0 +1,5 @@
+﻿名稱	金額	圖片
+　	0	img/Case/0.jpg
+杰強 蘇凱30戰鬥 USB3.0 電腦機殼 - NT.890	890	img/Case/1.jpg
+Cooler Master K280 電競機殼 - NT.1390	1390	img/Case/2.jpg
+曜越 Overseer RX-I Snow Edition機殼 - NT.4290	4290	img/Case/3.jpg

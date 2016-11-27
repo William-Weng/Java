@@ -1,0 +1,5 @@
+﻿名稱	金額	圖片
+　	0	img/Power/0.jpg
+七盟 82+ 銅牌 420W 電源供應器 - NT.1699	1699	img/Power/1.jpg
+銀欣 全模組SFX/ATX兩用金牌 電源供應器 - NT.2890	2890	img/Power/2.jpg
+安鈦克 HCP-1000 1000W 電源供應器 - NT.8490	8490	img/Power/3.jpg

@@ -1,0 +1,5 @@
+﻿名稱	金額	圖片
+　	0	img/CPU/0.jpg
+Intel Celeron G1820 - NT.1300	1300	img/CPU/1.jpg
+Intel Pentium G3420 - NT.2200	2200	img/CPU/2.jpg
+Intel Core i5 4670 - NT.7300	7300	img/CPU/3.jpg

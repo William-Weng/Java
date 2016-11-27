@@ -1,0 +1,5 @@
+﻿名稱	金額	圖片
+　	0	img/MB/0.jpg
+華擎 H81M-ITX 主機板 - NT.2290	2290	img/MB/1.jpg
+技嘉 G1.SNIPER B5 主機板 - NT.3090	3090	img/MB/2.jpg
+華碩 Z87-K 主機板- NT.3990	3990	img/MB/3.jpg

@@ -1,0 +1,5 @@
+﻿名稱	金額	圖片
+　	0	img/LCD/0.jpg
+華碩 VX229N 22型AH-IPS寬螢幕 - NT.3988	3988	img/LCD/1.jpg
+樂金 23MP65HQ-P 23型AH-IPS寬螢幕 - NT.5688	5688	img/LCD/2.jpg
+戴爾 U2412M 24 吋寬螢幕顯示器 - NT.8800	8800	img/LCD/3.jpg
